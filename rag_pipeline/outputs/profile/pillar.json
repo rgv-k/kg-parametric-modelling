@@ -1,0 +1,103 @@
+{
+  "component": "pillar",
+  "profile": [
+    {
+      "name": "ādhāra (lower part)",
+      "order": -1,
+      "segments": [
+        {
+          "type": "rectangle",
+          "size": -1.0
+        }
+      ]
+    },
+    {
+      "name": "padmināsana (pillar base)",
+      "order": 0,
+      "segments": [
+        {
+          "type": "taper",
+          "size": 0.5
+        },
+        {
+          "type": "rectangle",
+          "size": 0.5
+        }
+      ]
+    },
+    {
+      "name": "kumbha",
+      "order": 1,
+      "segments": [
+        {
+          "type": "arc",
+          "size": 0.5
+        },
+        {
+          "type": "rectangle",
+          "size": 0.5
+        }
+      ]
+    },
+    {
+      "name": "skandha",
+      "order": 2,
+      "segments": [
+        {
+          "type": "rectangle",
+          "size": 1.0
+        }
+      ]
+    },
+    {
+      "name": "ghaṇṭā (bell capital)",
+      "order": 3,
+      "segments": [
+        {
+          "type": "arc",
+          "size": 1.0
+        }
+      ]
+    },
+    {
+      "name": "potikā (bracket capital)",
+      "order": 4,
+      "segments": [
+        {
+          "type": "sigmoid",
+          "size": 1.0
+        }
+      ]
+    },
+    {
+      "name": "vīrakāṇḍa",
+      "order": 5,
+      "segments": [
+        {
+          "type": "rectangle",
+          "size": -1.0
+        }
+      ]
+    },
+    {
+      "name": "phalaka (abacus)",
+      "order": 6,
+      "segments": [
+        {
+          "type": "rectangle",
+          "size": 1.0
+        }
+      ]
+    },
+    {
+      "name": "padma (lotus)",
+      "order": 7,
+      "segments": [
+        {
+          "type": "circle_segment",
+          "size": 1.0
+        }
+      ]
+    }
+  ]
+}

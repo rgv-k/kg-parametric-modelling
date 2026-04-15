@@ -1,0 +1,103 @@
+{
+  "component": "base",
+  "structure_type": "vertical_stack",
+  "reference": {
+    "primary_dimension": "height",
+    "normalized_value": 1.0
+  },
+  "derived_parameters": {
+    "width": {
+      "ratio": 1.25,
+      "relative_to": "length"
+    },
+    "length": {
+      "ratio": 1.0,
+      "relative_to": "reference"
+    }
+  },
+  "subcomponents": [
+    {
+      "name": "upana",
+      "order": 1,
+      "parameters": {
+        "height": {
+          "ratio": 0.1389,
+          "relative_to": "reference"
+        },
+        "projection": {
+          "ratio": 0.1111,
+          "relative_to": "janman_projection"
+        }
+      },
+      "source": "inferred"
+    },
+    {
+      "name": "kumuda",
+      "order": 2,
+      "parameters": {
+        "height": {
+          "ratio": 0.1667,
+          "relative_to": "reference"
+        },
+        "projection": {
+          "ratio": 0.1111,
+          "relative_to": "janman_projection"
+        }
+      },
+      "source": "inferred"
+    },
+    {
+      "name": "kantha",
+      "order": 3,
+      "parameters": {
+        "height": {
+          "ratio": 0.125,
+          "relative_to": "reference"
+        },
+        "recess": {
+          "ratio": 0.1111,
+          "relative_to": "janman_projection"
+        }
+      },
+      "source": "inferred"
+    },
+    {
+      "name": "kampa",
+      "order": 4,
+      "parameters": {
+        "height": {
+          "ratio": 0.0417,
+          "relative_to": "reference"
+        }
+      },
+      "source": "inferred"
+    },
+    {
+      "name": "pattika",
+      "order": 5,
+      "parameters": {
+        "height": {
+          "ratio": 0.125,
+          "relative_to": "reference"
+        },
+        "projection": {
+          "ratio": 0.1111,
+          "relative_to": "janman_projection"
+        }
+      },
+      "source": "inferred"
+    },
+    {
+      "name": "ksepana",
+      "order": 6,
+      "parameters": {
+        "height": {
+          "ratio": 0.2308,
+          "relative_to": "reference"
+        }
+      },
+      "source": "inferred"
+    }
+  ],
+  "micro_components": []
+}

@@ -1,0 +1,38 @@
+{
+  "structure": [
+    "adhisthana",
+    "upana",
+    "kumuda",
+    "pattika",
+    "kantha",
+    "kampa",
+    "ksepana",
+    "drk",
+    "pādukā",
+    "aṅga",
+    "sopāna",
+    "pañjara",
+    "Nāsī"
+  ],
+  "measurements": [
+    "Rectangular base length to width ratio is 10:8.",
+    "Lotiform base width is 1.5 times pillar module.",
+    "Lotiform base width is twice its height.",
+    "Pitha summit width is 7/8 of its base width.",
+    "Muhurtastambha summit diameter is 9/10 of base diameter.",
+    "Gnomon base diameter is 5 times top diameter.",
+    "Pattika height is a quarter of a module.",
+    "Pattika width is double its thickness.",
+    "Candrakanta capital height is 1.5 modules.",
+    "Srikara capital height is 1.25 modules.",
+    "Saumukhya capital height is 1.75 modules.",
+    "Priyadarsana capital height is 0.5 modules.",
+    "Padmapattika width is 3/4 of door jamb thickness.",
+    "Door lath thickness is half leaf thickness.",
+    "Kantha recess equals upana projection.",
+    "Kumuda projection equals upana projection.",
+    "Pattika projection equals upana projection.",
+    "Vājana recess equals pattika projection.",
+    "Upana projection is 2/3 of janman projection."
+  ]
+}

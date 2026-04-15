@@ -1,0 +1,65 @@
+{
+  "component": "base",
+  "profile": [
+    {
+      "name": "upana",
+      "order": 1,
+      "segments": [
+        {
+          "type": "rectangle",
+          "size": 0.1389
+        }
+      ]
+    },
+    {
+      "name": "kumuda",
+      "order": 2,
+      "segments": [
+        {
+          "type": "taper",
+          "size": 0.1667
+        }
+      ]
+    },
+    {
+      "name": "kantha",
+      "order": 3,
+      "segments": [
+        {
+          "type": "rectangle",
+          "size": 0.125
+        }
+      ]
+    },
+    {
+      "name": "kampa",
+      "order": 4,
+      "segments": [
+        {
+          "type": "sigmoid",
+          "size": 0.0417
+        }
+      ]
+    },
+    {
+      "name": "pattika",
+      "order": 5,
+      "segments": [
+        {
+          "type": "taper",
+          "size": 0.125
+        }
+      ]
+    },
+    {
+      "name": "ksepana",
+      "order": 6,
+      "segments": [
+        {
+          "type": "rectangle",
+          "size": 0.2308
+        }
+      ]
+    }
+  ]
+}
