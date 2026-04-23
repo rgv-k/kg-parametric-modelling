@@ -10,13 +10,13 @@ load_dotenv()
 client = ChatOpenAI(
     base_url="https://openrouter.ai/api/v1",
     api_key=os.environ.get("OPENROUTER_API_KEY"),
-    model="openai/gpt-4o-mini",
+    model=os.getenv("MODEL_NAME"),
     temperature=0,
     max_tokens=6000
 )
 INPUT_DIR = "data/ocr"
 OUTPUT_DIR = "data/parsed"
-LOG_FILE = "llm_trace.log"
+LOG_FILE = "llm_logs/llm_trace.log"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 SYSTEM_PROMPT = """
 You are a linguistic parser specializing in ancient Sanskrit architectural texts.

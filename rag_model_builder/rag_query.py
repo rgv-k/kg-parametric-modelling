@@ -8,7 +8,7 @@ load_dotenv()
 llm = ChatOpenAI(
     openai_api_key=os.environ.get("OPENROUTER_API_KEY"),
     openai_api_base="https://openrouter.ai/api/v1",
-    model="deepseek/deepseek-v3.2",
+    model=os.getenv("MODEL_NAME"),
     temperature=0,
     max_tokens=20000,
     response_format={"type": "json_object"}
@@ -84,7 +84,7 @@ class Neo4jRAG:
 
         RETURN nodes(path) AS nodes, relationships(path) AS rels
         """
-        with self.driver.session(database="mayamata-kg") as session:
+        with self.driver.session(database=os.getenv("DATABASE_NAME")) as session:
             result = session.run(query, component=component)
             nodes, rels = [], []
             for r in result:

@@ -9,7 +9,7 @@ load_dotenv()
 model = ChatOpenAI(
     openai_api_key=os.environ.get("OPENROUTER_API_KEY"),
     openai_api_base="https://openrouter.ai/api/v1",
-    model="anthropic/claude-3-haiku",
+    model=os.getenv("MODEL_NAME"),
     temperature=0
 )
 INPUT_FILE = "data/glossary_final/GLOSSARY_FINAL.json"

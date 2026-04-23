@@ -11,7 +11,7 @@ os.makedirs(OUTPUT_DIR, exist_ok=True)
 llm = ChatOpenAI(
     openai_api_key=os.environ.get("OPENROUTER_API_KEY"),
     openai_api_base="https://openrouter.ai/api/v1",
-    model="deepseek/deepseek-v3.2",
+    model=os.getenv("MODEL_NAME"),
     temperature=0,
     max_tokens=6000
 )

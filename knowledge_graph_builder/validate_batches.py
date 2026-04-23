@@ -13,7 +13,9 @@ client = OpenAI(
 INPUT_PATTERN = "data/glossary_batches/GLOSSARY_BATCH_*.json"
 OUTPUT_DIR = "data/glossary_clean"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
-MODEL = "anthropic/claude-3-haiku"
+MODEL = os.getenv("MODEL_NAME")
+
+
 SYSTEM_PROMPT = """
 You are a meticulous data validation agent. You will receive a JSON string that is the
 output of an OCR process on a Sanskrit glossary. This JSON is a list of terms, but it
