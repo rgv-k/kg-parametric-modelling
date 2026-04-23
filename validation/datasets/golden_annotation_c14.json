@@ -1,0 +1,772 @@
+[
+  {
+    "verse": "1-4a",
+    "relationships": [
+      {
+        "type": "HAS_PART",
+        "source": "ground",
+        "target": "dry ground"
+      },
+      {
+        "type": "HAS_PART",
+        "source": "ground",
+        "target": "moist ground"
+      },
+      {
+        "type": "HAS_PROPERTY",
+        "source": "dry ground",
+        "target": "supplied with gravel"
+      },
+      {
+        "type": "HAS_PROPERTY",
+        "source": "dry ground",
+        "target": "hard to dig"
+      },
+      {
+        "type": "HAS_PROPERTY",
+        "source": "dry ground",
+        "target": "rich in water"
+      },
+      {
+        "type": "RELATED_TO",
+        "source": "moist ground",
+        "target": "blue lotuses"
+      },
+      {
+        "type": "RELATED_TO",
+        "source": "moist ground",
+        "target": "withered cucumbers"
+      },
+      {
+        "type": "RELATED_TO",
+        "source": "moist ground",
+        "target": "white sand"
+      },
+      {
+        "type": "RELATED_TO",
+        "source": "ground",
+        "target": "houses of gods"
+      },
+      {
+        "type": "RELATED_TO",
+        "source": "ground",
+        "target": "houses of brahmins"
+      }
+    ]
+  },
+  {
+    "verse": "4b-8",
+    "relationships": [
+      {
+        "type": "USES_MATERIAL",
+        "source": "trench",
+        "target": "bricks"
+      },
+      {
+        "type": "USES_MATERIAL",
+        "source": "trench",
+        "target": "earth"
+      },
+      {
+        "type": "USES_MATERIAL",
+        "source": "trench",
+        "target": "fine sand"
+      }
+    ]
+  },
+  {
+    "verse": "8-9",
+    "relationships": [
+      {
+        "type": "RELATED_TO",
+        "source": "trench",
+        "target": "elephants"
+      },
+      {
+        "type": "USES_MATERIAL",
+        "source": "trench",
+        "target": "hard wood logs"
+      },
+      {
+        "type": "USES_MATERIAL",
+        "source": "hollow",
+        "target": "water"
+      },
+      {
+        "type": "LOCATED_IN",
+        "source": "foundation deposit",
+        "target": "ground"
+      },
+      {
+        "type": "LOCATED_IN",
+        "source": "adjustment slab",
+        "target": "ground"
+      },
+      {
+        "type": "HAS_MEASUREMENT",
+        "source": "adjustment slab",
+        "target": "2-3x pillar width"
+      },
+      {
+        "type": "HAS_MEASUREMENT",
+        "source": "adjustment slab",
+        "target": "1/2 width thickness"
+      },
+      {
+        "type": "LOCATED_IN",
+        "source": "lotus",
+        "target": "adjustment slab"
+      },
+      {
+        "type": "HAS_PROPERTY",
+        "source": "lotus",
+        "target": "above"
+      },
+      {
+        "type": "LOCATED_IN",
+        "source": "secondary slab",
+        "target": "adjustment slab"
+      },
+      {
+        "type": "HAS_PROPERTY",
+        "source": "secondary slab",
+        "target": "above"
+      }
+    ]
+  },
+  {
+    "verse": "9-11a",
+    "relationships": [
+      {
+        "type": "HAS_MEASUREMENT",
+        "source": "regulating course",
+        "target": "1 cubit above ground"
+      },
+      {
+        "type": "LOCATED_IN",
+        "source": "base",
+        "target": "regulating course"
+      },
+      {
+        "type": "HAS_PROPERTY",
+        "source": "base",
+        "target": "above"
+      },
+      {
+        "type": "LOCATED_IN",
+        "source": "level of the pillars",
+        "target": "base"
+      },
+      {
+        "type": "HAS_PROPERTY",
+        "source": "level of the pillars",
+        "target": "above"
+      },
+      {
+        "type": "HAS_PART",
+        "source": "level of the pillars",
+        "target": "pillars"
+      },
+      {
+        "type": "HAS_PART",
+        "source": "level of the pillars",
+        "target": "wall"
+      },
+      {
+        "type": "HAS_MEASUREMENT",
+        "source": "ground floor height",
+        "target": "stereobate height"
+      },
+      {
+        "type": "LOCATED_IN",
+        "source": "stereobate",
+        "target": "dripstone"
+      },
+      {
+        "type": "HAS_PROPERTY",
+        "source": "stereobate",
+        "target": "above"
+      }
+    ]
+  },
+  {
+    "verse": "11b-16",
+    "relationships": [
+      {
+        "type": "RELATED_TO",
+        "source": "base",
+        "target": "temples"
+      },
+      {
+        "type": "HAS_MEASUREMENT",
+        "source": "base height",
+        "target": "4 cubits gods"
+      },
+      {
+        "type": "HAS_MEASUREMENT",
+        "source": "base height",
+        "target": "3.5 cubits brahmins"
+      },
+      {
+        "type": "HAS_MEASUREMENT",
+        "source": "base height",
+        "target": "3 cubits kings"
+      },
+      {
+        "type": "HAS_MEASUREMENT",
+        "source": "base height",
+        "target": "2.5 cubits crown princes"
+      },
+      {
+        "type": "HAS_MEASUREMENT",
+        "source": "base height",
+        "target": "2 cubits merchants"
+      },
+      {
+        "type": "HAS_MEASUREMENT",
+        "source": "base height",
+        "target": "1 cubit sudra"
+      },
+      {
+        "type": "HAS_MEASUREMENT",
+        "source": "12 storey base",
+        "target": "4 cubits"
+      },
+      {
+        "type": "HAS_MEASUREMENT",
+        "source": "storey decrement",
+        "target": "6 digits"
+      }
+    ]
+  },
+  {
+    "verse": "17-18a",
+    "relationships": [
+      {
+        "type": "HAS_MEASUREMENT",
+        "source": "base height",
+        "target": "1/2 pillar height less 1/6"
+      },
+      {
+        "type": "HAS_MEASUREMENT",
+        "source": "base height",
+        "target": "1/2 pillar height less 1/8"
+      },
+      {
+        "type": "HAS_MEASUREMENT",
+        "source": "plinth projection",
+        "target": "2/3 regulating course projection"
+      },
+      {
+        "type": "HAS_MEASUREMENT",
+        "source": "torus projection",
+        "target": "plinth projection"
+      },
+      {
+        "type": "HAS_MEASUREMENT",
+        "source": "string-course projection",
+        "target": "plinth projection"
+      },
+      {
+        "type": "HAS_MEASUREMENT",
+        "source": "dado recess",
+        "target": "plinth projection"
+      }
+    ]
+  },
+  {
+    "verse": "18b",
+    "relationships": [
+      {
+        "type": "RELATED_TO",
+        "source": "base height division",
+        "target": "distribution rules"
+      }
+    ]
+  },
+  {
+    "verse": "19-20",
+    "relationships": [
+      {
+        "type": "IS_A",
+        "source": "padabandha base",
+        "target": "base"
+      },
+      {
+        "type": "HAS_MEASUREMENT",
+        "source": "padabandha base",
+        "target": "24 parts"
+      },
+      {
+        "type": "HAS_PART",
+        "source": "padabandha base",
+        "target": "plinth"
+      },
+      {
+        "type": "HAS_MEASUREMENT",
+        "source": "plinth",
+        "target": "8 parts"
+      },
+      {
+        "type": "HAS_PART",
+        "source": "padabandha base",
+        "target": "torus"
+      },
+      {
+        "type": "HAS_MEASUREMENT",
+        "source": "torus",
+        "target": "7 parts"
+      },
+      {
+        "type": "HAS_PART",
+        "source": "padabandha base",
+        "target": "dado"
+      },
+      {
+        "type": "HAS_MEASUREMENT",
+        "source": "dado",
+        "target": "3 parts"
+      }
+    ]
+  },
+  {
+    "verse": "21-22",
+    "relationships": [
+      {
+        "type": "IS_A",
+        "source": "uragabandha base",
+        "target": "base"
+      },
+      {
+        "type": "HAS_MEASUREMENT",
+        "source": "uragabandha base",
+        "target": "18 parts"
+      },
+      {
+        "type": "HAS_PART",
+        "source": "uragabandha base",
+        "target": "torus"
+      },
+      {
+        "type": "HAS_MEASUREMENT",
+        "source": "torus",
+        "target": "6 parts"
+      },
+      {
+        "type": "HAS_PART",
+        "source": "uragabandha base",
+        "target": "plinth"
+      },
+      {
+        "type": "HAS_MEASUREMENT",
+        "source": "plinth",
+        "target": "5 parts"
+      }
+    ]
+  },
+  {
+    "verse": "23-24",
+    "relationships": [
+      {
+        "type": "IS_A",
+        "source": "pratikrama base",
+        "target": "base"
+      },
+      {
+        "type": "HAS_MEASUREMENT",
+        "source": "pratikrama base",
+        "target": "21 parts"
+      },
+      {
+        "type": "HAS_PART",
+        "source": "pratikrama base",
+        "target": "main plinth"
+      },
+      {
+        "type": "HAS_MEASUREMENT",
+        "source": "main plinth",
+        "target": "7 parts"
+      }
+    ]
+  },
+  {
+    "verse": "25-26",
+    "relationships": [
+      {
+        "type": "IS_A",
+        "source": "padmakesara base",
+        "target": "base"
+      },
+      {
+        "type": "HAS_MEASUREMENT",
+        "source": "padmakesara base",
+        "target": "26 parts"
+      },
+      {
+        "type": "HAS_PART",
+        "source": "padmakesara base",
+        "target": "plinth"
+      },
+      {
+        "type": "HAS_PART",
+        "source": "padmakesara base",
+        "target": "doucine"
+      },
+      {
+        "type": "HAS_PART",
+        "source": "padmakesara base",
+        "target": "string-course"
+      }
+    ]
+  },
+  {
+    "verse": "27-28",
+    "relationships": [
+      {
+        "type": "IS_A",
+        "source": "puspapuskala base",
+        "target": "base"
+      },
+      {
+        "type": "HAS_MEASUREMENT",
+        "source": "puspapuskala base",
+        "target": "19 parts"
+      },
+      {
+        "type": "HAS_PART",
+        "source": "puspapuskala base",
+        "target": "main plinth"
+      },
+      {
+        "type": "HAS_MEASUREMENT",
+        "source": "main plinth",
+        "target": "5 parts"
+      },
+      {
+        "type": "RELATED_TO",
+        "source": "puspapuskala base",
+        "target": "medium and large temples"
+      }
+    ]
+  },
+  {
+    "verse": "29-30",
+    "relationships": [
+      {
+        "type": "IS_A",
+        "source": "sribandha base",
+        "target": "base"
+      },
+      {
+        "type": "HAS_MEASUREMENT",
+        "source": "sribandha base",
+        "target": "32 parts"
+      },
+      {
+        "type": "RELATED_TO",
+        "source": "sribandha base",
+        "target": "palaces of gods"
+      },
+      {
+        "type": "RELATED_TO",
+        "source": "sribandha base",
+        "target": "palaces of kings"
+      }
+    ]
+  },
+  {
+    "verse": "31",
+    "relationships": [
+      {
+        "type": "IS_A",
+        "source": "mancabandha base",
+        "target": "base"
+      },
+      {
+        "type": "HAS_MEASUREMENT",
+        "source": "mancabandha base",
+        "target": "26 parts"
+      }
+    ]
+  },
+  {
+    "verse": "32",
+    "relationships": [
+      {
+        "type": "IS_A",
+        "source": "srikanta base",
+        "target": "base"
+      },
+      {
+        "type": "HAS_PROPERTY",
+        "source": "srikanta base",
+        "target": "octagonal torus"
+      },
+      {
+        "type": "HAS_PROPERTY",
+        "source": "srikanta base",
+        "target": "rounded torus"
+      }
+    ]
+  },
+  {
+    "verse": "33",
+    "relationships": [
+      {
+        "type": "IS_A",
+        "source": "srenibandha base",
+        "target": "base"
+      },
+      {
+        "type": "HAS_MEASUREMENT",
+        "source": "srenibandha base",
+        "target": "26 parts"
+      },
+      {
+        "type": "HAS_PART",
+        "source": "srenibandha base",
+        "target": "main plinth"
+      },
+      {
+        "type": "HAS_PART",
+        "source": "srenibandha base",
+        "target": "torus"
+      },
+      {
+        "type": "RELATED_TO",
+        "source": "srenibandha base",
+        "target": "gods"
+      }
+    ]
+  },
+  {
+    "verse": "34",
+    "relationships": [
+      {
+        "type": "IS_A",
+        "source": "padmabandha base",
+        "target": "base"
+      },
+      {
+        "type": "HAS_MEASUREMENT",
+        "source": "padmabandha base",
+        "target": "18 parts"
+      },
+      {
+        "type": "HAS_PART",
+        "source": "padmabandha base",
+        "target": "plinth"
+      },
+      {
+        "type": "HAS_PART",
+        "source": "padmabandha base",
+        "target": "doucine"
+      },
+      {
+        "type": "RELATED_TO",
+        "source": "padmabandha base",
+        "target": "principal gods"
+      }
+    ]
+  },
+  {
+    "verse": "35-36a",
+    "relationships": [
+      {
+        "type": "IS_A",
+        "source": "vaprabandha base",
+        "target": "base"
+      },
+      {
+        "type": "HAS_MEASUREMENT",
+        "source": "vaprabandha base",
+        "target": "22 parts"
+      },
+      {
+        "type": "HAS_PART",
+        "source": "vaprabandha base",
+        "target": "plinth"
+      },
+      {
+        "type": "HAS_PART",
+        "source": "vaprabandha base",
+        "target": "torus"
+      },
+      {
+        "type": "HAS_PART",
+        "source": "vaprabandha base",
+        "target": "string-course"
+      }
+    ]
+  },
+  {
+    "verse": "36b",
+    "relationships": [
+      {
+        "type": "IS_A",
+        "source": "kapotabandha base",
+        "target": "base"
+      },
+      {
+        "type": "HAS_PROPERTY",
+        "source": "kapotabandha base",
+        "target": "rounded torus"
+      },
+      {
+        "type": "HAS_PART",
+        "source": "kapotabandha base",
+        "target": "dripstone"
+      }
+    ]
+  },
+  {
+    "verse": "37",
+    "relationships": [
+      {
+        "type": "IS_A",
+        "source": "pratibandha base",
+        "target": "base"
+      },
+      {
+        "type": "HAS_MEASUREMENT",
+        "source": "upper string-course",
+        "target": "4 parts"
+      },
+      {
+        "type": "HAS_MEASUREMENT",
+        "source": "top fillet",
+        "target": "4 parts"
+      },
+      {
+        "type": "HAS_PROPERTY",
+        "source": "torus",
+        "target": "chamfered string-course shape"
+      }
+    ]
+  },
+  {
+    "verse": "38-39",
+    "relationships": [
+      {
+        "type": "IS_A",
+        "source": "kalasa base",
+        "target": "base"
+      },
+      {
+        "type": "HAS_MEASUREMENT",
+        "source": "kalasa base",
+        "target": "24 parts"
+      },
+      {
+        "type": "HAS_PART",
+        "source": "kalasa base",
+        "target": "plinth"
+      },
+      {
+        "type": "HAS_PART",
+        "source": "kalasa base",
+        "target": "dado"
+      },
+      {
+        "type": "HAS_PART",
+        "source": "kalasa base",
+        "target": "string-course"
+      }
+    ]
+  },
+  {
+    "verse": "40",
+    "relationships": [
+      {
+        "type": "HAS_MEASUREMENT",
+        "source": "base calculation",
+        "target": "2 digits"
+      },
+      {
+        "type": "HAS_MEASUREMENT",
+        "source": "base calculation",
+        "target": "1.5 digits"
+      },
+      {
+        "type": "HAS_MEASUREMENT",
+        "source": "base calculation",
+        "target": "0.5 digit"
+      },
+      {
+        "type": "HAS_MEASUREMENT",
+        "source": "base calculation",
+        "target": "0.25 digit"
+      }
+    ]
+  },
+  {
+    "verse": "41-44",
+    "relationships": [
+      {
+        "type": "RELATED_TO",
+        "source": "base proportions",
+        "target": "building proportions"
+      },
+      {
+        "type": "HAS_PROPERTY",
+        "source": "base",
+        "target": "harmonious"
+      }
+    ]
+  },
+  {
+    "verse": "45-46",
+    "relationships": [
+      {
+        "type": "LOCATED_IN",
+        "source": "stereobate",
+        "target": "base"
+      },
+      {
+        "type": "HAS_PROPERTY",
+        "source": "stereobate",
+        "target": "top"
+      },
+      {
+        "type": "RELATED_TO",
+        "source": "stereobate",
+        "target": "door placement constraint"
+      }
+    ]
+  },
+  {
+    "verse": "46b",
+    "relationships": [
+      {
+        "type": "RELATED_TO",
+        "source": "prescribed placement",
+        "target": "rules"
+      }
+    ]
+  },
+  {
+    "verse": "47",
+    "relationships": [
+      {
+        "type": "HAS_MEASUREMENT",
+        "source": "base height",
+        "target": "1/2 pillar height"
+      },
+      {
+        "type": "HAS_MEASUREMENT",
+        "source": "base height",
+        "target": "1/2 pillar height less 1/6"
+      },
+      {
+        "type": "HAS_MEASUREMENT",
+        "source": "base height",
+        "target": "1/2 pillar height less 1/7"
+      },
+      {
+        "type": "HAS_MEASUREMENT",
+        "source": "base height",
+        "target": "1/2 pillar height less 1/8"
+      }
+    ]
+  }
+]

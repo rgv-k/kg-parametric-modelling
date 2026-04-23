@@ -1,0 +1,93 @@
+{
+  "component": "mandapa",
+  "structure_type": "planar",
+  "reference": {
+    "primary_dimension": "width",
+    "normalized_value": 1.0
+  },
+  "derived_parameters": {
+    "length": {
+      "ratio": 1.0,
+      "relative_to": "width"
+    },
+    "height": {
+      "ratio": 0.5,
+      "relative_to": "width"
+    }
+  },
+  "subcomponents": [
+    {
+      "name": "upapītha",
+      "order": 1,
+      "parameters": {
+        "height": {
+          "ratio": 0.1,
+          "relative_to": "reference.height"
+        }
+      },
+      "source": "inferred"
+    },
+    {
+      "name": "stambha",
+      "order": 2,
+      "parameters": {
+        "height": {
+          "ratio": 0.4,
+          "relative_to": "reference.height"
+        }
+      },
+      "source": "inferred"
+    },
+    {
+      "name": "prastara",
+      "order": 3,
+      "parameters": {
+        "height": {
+          "ratio": 0.1,
+          "relative_to": "reference.height"
+        }
+      },
+      "source": "inferred"
+    },
+    {
+      "name": "vitana",
+      "order": 4,
+      "parameters": {
+        "height": {
+          "ratio": 0.4,
+          "relative_to": "reference.height"
+        }
+      },
+      "source": "inferred"
+    }
+  ],
+  "micro_components": [
+    {
+      "name": "jalaka",
+      "parameters": {
+        "width": {
+          "ratio": 0.05,
+          "relative_to": "reference.width"
+        }
+      }
+    },
+    {
+      "name": "kunda",
+      "parameters": {
+        "width": {
+          "ratio": 0.1,
+          "relative_to": "reference.width"
+        }
+      }
+    },
+    {
+      "name": "dhārā",
+      "parameters": {
+        "width": {
+          "ratio": 0.02,
+          "relative_to": "reference.width"
+        }
+      }
+    }
+  ]
+}

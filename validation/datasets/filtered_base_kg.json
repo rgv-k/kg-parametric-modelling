@@ -1,0 +1,682 @@
+[
+  {
+    "verse": "KG",
+    "relationships": [
+      {
+        "type": "IS_A",
+        "source": "uragabandha",
+        "target": "adhiṣṭhāna"
+      },
+      {
+        "type": "IS_A",
+        "source": "padmakesara",
+        "target": "adhiṣṭhāna"
+      },
+      {
+        "type": "IS_A",
+        "source": "pādabandha",
+        "target": "adhiṣṭhāna"
+      },
+      {
+        "type": "IS_A",
+        "source": "pratikrama",
+        "target": "adhiṣṭhāna"
+      },
+      {
+        "type": "IS_A",
+        "source": "padmabandha_adhisthana",
+        "target": "adhiṣṭhāna"
+      },
+      {
+        "type": "IS_A",
+        "source": "vaprabandha_adhisthana",
+        "target": "adhiṣṭhāna"
+      },
+      {
+        "type": "IS_A",
+        "source": "puspapuskala_adhisthana",
+        "target": "adhiṣṭhāna"
+      },
+      {
+        "type": "IS_A",
+        "source": "bali_pitha",
+        "target": "adhiṣṭhāna"
+      },
+      {
+        "type": "IS_A",
+        "source": "mancabandha_adhisthana",
+        "target": "adhiṣṭhāna"
+      },
+      {
+        "type": "IS_A",
+        "source": "kalasa_adhisthana",
+        "target": "adhiṣṭhāna"
+      },
+      {
+        "type": "IS_A",
+        "source": "sribandha_adhisthana",
+        "target": "adhiṣṭhāna"
+      },
+      {
+        "type": "IS_A",
+        "source": "srikanta_adhisthana",
+        "target": "adhiṣṭhāna"
+      },
+      {
+        "type": "IS_A",
+        "source": "kapotabandha_adhisthana",
+        "target": "adhiṣṭhāna"
+      },
+      {
+        "type": "IS_A",
+        "source": "srenibandha_adhisthana",
+        "target": "adhiṣṭhāna"
+      },
+      {
+        "type": "IS_A",
+        "source": "pratibandha_adhisthana",
+        "target": "adhiṣṭhāna"
+      },
+      {
+        "type": "IS_A",
+        "source": "carubandha",
+        "target": "adhiṣṭhāna"
+      },
+      {
+        "type": "PART_OF",
+        "source": "adhiṣṭhāna",
+        "target": "prāsāda"
+      },
+      {
+        "type": "PART_OF",
+        "source": "adhiṣṭhāna",
+        "target": "maņḍapa"
+      },
+      {
+        "type": "PART_OF",
+        "source": "adhiṣṭhāna",
+        "target": "śrīkeśa"
+      },
+      {
+        "type": "PART_OF",
+        "source": "adhiṣṭhāna",
+        "target": "śrībhadra"
+      },
+      {
+        "type": "PART_OF",
+        "source": "adhiṣṭhāna",
+        "target": "śrīviśāla"
+      },
+      {
+        "type": "PART_OF",
+        "source": "adhiṣṭhāna",
+        "target": "sarvatobhadra"
+      },
+      {
+        "type": "PART_OF",
+        "source": "adhiṣṭhāna",
+        "target": "prākāra_bhitti"
+      },
+      {
+        "type": "PART_OF",
+        "source": "adhiṣṭhāna",
+        "target": "gopura_saptatala"
+      },
+      {
+        "type": "PART_OF",
+        "source": "adhiṣṭhāna",
+        "target": "kauśika_maṇḍapa"
+      },
+      {
+        "type": "PART_OF",
+        "source": "adhiṣṭhāna",
+        "target": "pārśvasaṁracanā"
+      },
+      {
+        "type": "PART_OF",
+        "source": "adhiṣṭhāna",
+        "target": "bhadrakostha_vimana"
+      },
+      {
+        "type": "PART_OF",
+        "source": "adhiṣṭhāna",
+        "target": "isvarakanta"
+      },
+      {
+        "type": "PART_OF",
+        "source": "adhiṣṭhāna",
+        "target": "gajaprstha_vimana"
+      },
+      {
+        "type": "PART_OF",
+        "source": "aṅga",
+        "target": "adhiṣṭhāna"
+      },
+      {
+        "type": "PART_OF",
+        "source": "sopāna",
+        "target": "adhiṣṭhāna"
+      },
+      {
+        "type": "PART_OF",
+        "source": "stambha",
+        "target": "adhiṣṭhāna"
+      },
+      {
+        "type": "LOCATED_AT",
+        "source": "dvāra",
+        "target": "adhiṣṭhāna"
+      },
+      {
+        "type": "LOCATED_AT",
+        "source": "pañjara",
+        "target": "adhiṣṭhāna"
+      },
+      {
+        "type": "LOCATED_AT",
+        "source": "nāsī",
+        "target": "adhiṣṭhāna"
+      },
+      {
+        "type": "LOCATED_AT",
+        "source": "gopura_stambha",
+        "target": "adhiṣṭhāna"
+      },
+      {
+        "type": "LOCATED_ABOVE",
+        "source": "adhiṣṭhāna",
+        "target": "upapīṭha"
+      },
+      {
+        "type": "LOCATED_ABOVE",
+        "source": "adhiṣṭhāna",
+        "target": "janman"
+      },
+      {
+        "type": "LOCATED_ABOVE",
+        "source": "jhaṣālastambha",
+        "target": "adhiṣṭhāna"
+      },
+      {
+        "type": "LOCATED_ABOVE",
+        "source": "nikhātastambha",
+        "target": "adhiṣṭhāna"
+      },
+      {
+        "type": "LOCATED_ABOVE",
+        "source": "pādavarga",
+        "target": "adhiṣṭhāna"
+      },
+      {
+        "type": "LOCATED_ABOVE",
+        "source": "pratistambha",
+        "target": "adhiṣṭhāna"
+      },
+      {
+        "type": "LOCATED_ABOVE",
+        "source": "prāsāda",
+        "target": "adhiṣṭhāna"
+      },
+      {
+        "type": "LOCATED_ABOVE",
+        "source": "stambha",
+        "target": "adhiṣṭhāna"
+      },
+      {
+        "type": "LOCATED_ABOVE",
+        "source": "bhūmi",
+        "target": "adhiṣṭhāna"
+      },
+      {
+        "type": "LOCATED_BELOW",
+        "source": "adhiṣṭhāna",
+        "target": "kūṭa"
+      },
+      {
+        "type": "LOCATED_BELOW",
+        "source": "adhiṣṭhāna",
+        "target": "grīva"
+      },
+      {
+        "type": "LOCATED_BELOW",
+        "source": "adhiṣṭhāna",
+        "target": "śālā"
+      },
+      {
+        "type": "LOCATED_BELOW",
+        "source": "adhiṣṭhāna",
+        "target": "ūrdhva_tala"
+      },
+      {
+        "type": "LOCATED_BELOW",
+        "source": "upapīṭha",
+        "target": "adhiṣṭhāna"
+      },
+      {
+        "type": "LOCATED_BELOW",
+        "source": "garbhanyāsa",
+        "target": "adhiṣṭhāna"
+      },
+      {
+        "type": "HAS_DIMENSION_RATIO",
+        "source": "adhiṣṭhāna",
+        "target": "aṁśa"
+      },
+      {
+        "type": "HAS_DIMENSION_RATIO",
+        "source": "adhiṣṭhāna",
+        "target": "aṅghri"
+      },
+      {
+        "type": "HAS_DIMENSION_RATIO",
+        "source": "adhiṣṭhāna",
+        "target": "grīva"
+      },
+      {
+        "type": "HAS_DIMENSION_RATIO",
+        "source": "adhiṣṭhāna",
+        "target": "prāsāda"
+      },
+      {
+        "type": "HAS_DIMENSION_RATIO",
+        "source": "adhiṣṭhāna",
+        "target": "stambha"
+      },
+      {
+        "type": "HAS_DIMENSION_RATIO",
+        "source": "adhiṣṭhāna",
+        "target": "svastika-prāsāda"
+      },
+      {
+        "type": "HAS_DIMENSION_RATIO",
+        "source": "adhiṣṭhāna",
+        "target": "ūrdhvapāda"
+      },
+      {
+        "type": "HAS_DIMENSION_RATIO",
+        "source": "adhiṣṭhāna",
+        "target": "prāsāda_utsedha"
+      },
+      {
+        "type": "HAS_DIMENSION_RATIO",
+        "source": "adhiṣṭhāna",
+        "target": "adhiṣṭhāna"
+      },
+      {
+        "type": "HAS_DIMENSION_RATIO",
+        "source": "aṅghri",
+        "target": "adhiṣṭhāna"
+      },
+      {
+        "type": "HAS_DIMENSION_RATIO",
+        "source": "upapīṭha",
+        "target": "adhiṣṭhāna"
+      },
+      {
+        "type": "HAS_DIMENSION_RATIO",
+        "source": "karna",
+        "target": "adhiṣṭhāna"
+      },
+      {
+        "type": "HAS_DIMENSION_RATIO",
+        "source": "prastara",
+        "target": "adhiṣṭhāna"
+      },
+      {
+        "type": "HAS_DIMENSION_RATIO",
+        "source": "bālapīṭha",
+        "target": "adhiṣṭhāna"
+      },
+      {
+        "type": "HAS_DIMENSION_RATIO",
+        "source": "sarira",
+        "target": "adhiṣṭhāna"
+      },
+      {
+        "type": "HAS_DIMENSION_RATIO",
+        "source": "bhūtala",
+        "target": "adhiṣṭhāna"
+      },
+      {
+        "type": "IS_A",
+        "source": "ambuja",
+        "target": "base"
+      },
+      {
+        "type": "IS_A",
+        "source": "ambujapītha",
+        "target": "base"
+      },
+      {
+        "type": "IS_A",
+        "source": "ādyanga",
+        "target": "base"
+      },
+      {
+        "type": "IS_A",
+        "source": "ādhāra",
+        "target": "base"
+      },
+      {
+        "type": "IS_A",
+        "source": "upapīṭha",
+        "target": "base"
+      },
+      {
+        "type": "IS_A",
+        "source": "tala",
+        "target": "base"
+      },
+      {
+        "type": "IS_A",
+        "source": "dharatala",
+        "target": "base"
+      },
+      {
+        "type": "IS_A",
+        "source": "patta",
+        "target": "base"
+      },
+      {
+        "type": "IS_A",
+        "source": "paṭṭikā",
+        "target": "base"
+      },
+      {
+        "type": "IS_A",
+        "source": "padmināsana",
+        "target": "base"
+      },
+      {
+        "type": "IS_A",
+        "source": "pādukā",
+        "target": "base"
+      },
+      {
+        "type": "IS_A",
+        "source": "puṣpapuṣkalā",
+        "target": "base"
+      },
+      {
+        "type": "IS_A",
+        "source": "paitḥikā",
+        "target": "base"
+      },
+      {
+        "type": "IS_A",
+        "source": "prati",
+        "target": "base"
+      },
+      {
+        "type": "IS_A",
+        "source": "pratibandha",
+        "target": "base"
+      },
+      {
+        "type": "IS_A",
+        "source": "mañcabandha",
+        "target": "base"
+      },
+      {
+        "type": "IS_A",
+        "source": "masūra",
+        "target": "base"
+      },
+      {
+        "type": "IS_A",
+        "source": "vajrapadma",
+        "target": "base"
+      },
+      {
+        "type": "IS_A",
+        "source": "vapra",
+        "target": "base"
+      },
+      {
+        "type": "IS_A",
+        "source": "vaprabandha",
+        "target": "base"
+      },
+      {
+        "type": "IS_A",
+        "source": "vedikā, vedī",
+        "target": "base"
+      },
+      {
+        "type": "IS_A",
+        "source": "śreṇībandha",
+        "target": "base"
+      },
+      {
+        "type": "IS_A",
+        "source": "subhadra",
+        "target": "base"
+      },
+      {
+        "type": "PART_OF",
+        "source": "drk",
+        "target": "base"
+      },
+      {
+        "type": "PART_OF",
+        "source": "pādukā",
+        "target": "base"
+      },
+      {
+        "type": "HAS_DIMENSION_RATIO",
+        "source": "upāna",
+        "target": "uragabandha"
+      },
+      {
+        "type": "HAS_DIMENSION_RATIO",
+        "source": "kumuda",
+        "target": "uragabandha"
+      },
+      {
+        "type": "HAS_DIMENSION_RATIO",
+        "source": "paṭṭikā",
+        "target": "uragabandha"
+      },
+      {
+        "type": "PART_OF",
+        "source": "upāna",
+        "target": "uragabandha"
+      },
+      {
+        "type": "PART_OF",
+        "source": "kumuda",
+        "target": "uragabandha"
+      },
+      {
+        "type": "PART_OF",
+        "source": "paṭṭikā",
+        "target": "uragabandha"
+      },
+      {
+        "type": "HAS_DIMENSION_RATIO",
+        "source": "kṣepaṇa",
+        "target": "padmakesara"
+      },
+      {
+        "type": "PART_OF",
+        "source": "kṣepaṇa",
+        "target": "padmakesara"
+      },
+      {
+        "type": "HAS_DIMENSION_RATIO",
+        "source": "upāna",
+        "target": "pādabandha"
+      },
+      {
+        "type": "HAS_DIMENSION_RATIO",
+        "source": "kaṇṭha",
+        "target": "pādabandha"
+      },
+      {
+        "type": "HAS_DIMENSION_RATIO",
+        "source": "kampa",
+        "target": "pādabandha"
+      },
+      {
+        "type": "HAS_DIMENSION_RATIO",
+        "source": "kumuda",
+        "target": "pādabandha"
+      },
+      {
+        "type": "HAS_DIMENSION_RATIO",
+        "source": "paṭṭikā",
+        "target": "pādabandha"
+      },
+      {
+        "type": "PART_OF",
+        "source": "upāna",
+        "target": "pādabandha"
+      },
+      {
+        "type": "PART_OF",
+        "source": "kaṇṭha",
+        "target": "pādabandha"
+      },
+      {
+        "type": "PART_OF",
+        "source": "kampa",
+        "target": "pādabandha"
+      },
+      {
+        "type": "PART_OF",
+        "source": "kumuda",
+        "target": "pādabandha"
+      },
+      {
+        "type": "PART_OF",
+        "source": "paṭṭikā",
+        "target": "pādabandha"
+      },
+      {
+        "type": "HAS_DIMENSION_RATIO",
+        "source": "upāna",
+        "target": "pratikrama"
+      },
+      {
+        "type": "HAS_DIMENSION_RATIO",
+        "source": "kumuda",
+        "target": "pratikrama"
+      },
+      {
+        "type": "PART_OF",
+        "source": "upāna",
+        "target": "pratikrama"
+      },
+      {
+        "type": "PART_OF",
+        "source": "kumuda",
+        "target": "pratikrama"
+      },
+      {
+        "type": "HAS_DIMENSION_RATIO",
+        "source": "upāna",
+        "target": "bali_pitha"
+      },
+      {
+        "type": "HAS_DIMENSION_RATIO",
+        "source": "kumuda",
+        "target": "bali_pitha"
+      },
+      {
+        "type": "HAS_DIMENSION_RATIO",
+        "source": "paṭṭikā",
+        "target": "bali_pitha"
+      },
+      {
+        "type": "HAS_DIMENSION_RATIO",
+        "source": "prati",
+        "target": "bali_pitha"
+      },
+      {
+        "type": "LOCATED_BELOW",
+        "source": "upapīṭha",
+        "target": "bali_pitha"
+      },
+      {
+        "type": "HAS_PART",
+        "source": "srikanta_adhisthana",
+        "target": "kaṇṭha"
+      },
+      {
+        "type": "HAS_PART",
+        "source": "srikanta_adhisthana",
+        "target": "paṭṭikā"
+      },
+      {
+        "type": "PART_OF",
+        "source": "upapīṭha",
+        "target": "maņḍapa"
+      },
+      {
+        "type": "HAS_DIMENSION_RATIO",
+        "source": "upapīṭha",
+        "target": "aṅghri"
+      },
+      {
+        "type": "HAS_DIMENSION_RATIO",
+        "source": "upapīṭha",
+        "target": "upapīṭha"
+      },
+      {
+        "type": "IS_A",
+        "source": "pratibhādra",
+        "target": "upapīṭha"
+      },
+      {
+        "type": "IS_A",
+        "source": "vedibhadra",
+        "target": "upapīṭha"
+      },
+      {
+        "type": "IS_A",
+        "source": "subhadra",
+        "target": "upapīṭha"
+      },
+      {
+        "type": "LOCATED_AT",
+        "source": "kumbha",
+        "target": "upapīṭha"
+      },
+      {
+        "type": "LOCATED_ABOVE",
+        "source": "padmā",
+        "target": "upapīṭha"
+      },
+      {
+        "type": "LOCATED_ABOVE",
+        "source": "simhāsana",
+        "target": "upapīṭha"
+      },
+      {
+        "type": "LOCATED_BELOW",
+        "source": "upapīṭha",
+        "target": "karnakūța"
+      },
+      {
+        "type": "LOCATED_BELOW",
+        "source": "upapīṭha",
+        "target": "śālā"
+      },
+      {
+        "type": "LOCATED_BELOW",
+        "source": "garbhanyāsa",
+        "target": "upapīṭha"
+      },
+      {
+        "type": "HAS_DIMENSION_RATIO",
+        "source": "upāna",
+        "target": "janman"
+      },
+      {
+        "type": "PART_OF",
+        "source": "prati",
+        "target": "prastara"
+      }
+    ]
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "structure": [
+    "ādhāra (lower part)",
+    "padmināsana (pillar base)",
+    "phalaka (abacus)",
+    "vīrakāṇḍa",
+    "skandha",
+    "potikā (bracket capital)",
+    "ghaṇṭā (bell capital)",
+    "kumbha",
+    "mandi (dye)",
+    "padma (lotus)",
+    "tati (support)",
+    "malasthāna (garland band)",
+    "śikhā (tenon)",
+    "kīla (peg)",
+    "uttara (architrave)",
+    "kapotabandha"
+  ],
+  "measurements": [
+    "kīla width = 1/8 pillar width",
+    "potikā width = pillar width",
+    "śikhā width = 1/8 pillar width",
+    "kṣudrapāda diameter = 3/4 pillar bottom diameter",
+    "citrakhanda doucine = 0.5 mod, median band = 1 mod, 16-sided = 1 mod, top square = 2 mod"
+  ]
+}

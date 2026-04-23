@@ -4,8 +4,7 @@ __pycache__/
 *.pyo
 *.pyd
 *.log
-.ven
+.venv
 .DS_Store
 Thumbs.db
-*.blend
-*.blend1
+chroma_langchain_db/
