@@ -33,10 +33,15 @@ Evaluates semantic correctness using:
 ## Project Structure
 
 MAYAMATAM_RAG/
+
 ├── knowledge_graph_builder/    # KG construction pipeline
+
 ├── rag_model_builder/          # RAG + Blender generation
+
 ├── validation/                 # Evaluation framework
+
 ├── neo4j_dump/                 # CSVs for Neo4j import
+
 ├── blender_outputs/            # Final 3D outputs
 
 
@@ -44,9 +49,9 @@ MAYAMATAM_RAG/
 
 ### 1. Clone the Repository
 ```bash
-$git clone https://github.com/rgv-k/kg-parametric-modelling
+git clone https://github.com/rgv-k/kg-parametric-modelling
 
-$cd MAYAMATAM_RAG
+cd MAYAMATAM_RAG
 ```
 ---
 
@@ -54,13 +59,13 @@ $cd MAYAMATAM_RAG
 
 Windows:
 ```bash
-$python -m venv venv
-$venv\Scripts\activate
+python -m venv venv
+venv\Scripts\activate
 ```
 Linux/Mac:
 ```bash
-$python -m venv venv
-$source venv/bin/activate
+python -m venv venv
+source venv/bin/activate
 ```
 ---
 
@@ -76,7 +81,9 @@ pip install -r requirements.txt
 Create a `.env` file in each of the following directories:
 
 - knowledge_graph_builder/
+  
 - rag_model_builder/
+  
 - validation/
 
 Each `.env` file should contain:
