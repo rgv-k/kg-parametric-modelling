@@ -43,28 +43,32 @@ MAYAMATAM_RAG/
 ## Setup Instructions
 
 ### 1. Clone the Repository
+```bash
+$git clone https://github.com/rgv-k/kg-parametric-modelling
 
-git clone https://github.com/rgv-k/kg-parametric-modelling
-cd MAYAMATAM_RAG
-
+$cd MAYAMATAM_RAG
+```
 ---
 
 ### 2. Create Virtual Environment
 
 Windows:
-python -m venv venv
-venv\Scripts\activate
-
+```bash
+$python -m venv venv
+$venv\Scripts\activate
+```
 Linux/Mac:
-python -m venv venv
-source venv/bin/activate
-
+```bash
+$python -m venv venv
+$source venv/bin/activate
+```
 ---
 
 ### 3. Install Dependencies
 
+```bash
 pip install -r requirements.txt
-
+```
 ---
 
 ### 4. Environment Variables
@@ -122,8 +126,10 @@ CREATE (a)-[:REL {description: row.description}]->(b);
 
 ### 1. Knowledge Graph Construction
 
+```bash
 cd knowledge_graph_builder
 python run_pipeline.py <input_pdf>
+```
 
 This step performs:
 - OCR extraction
@@ -139,8 +145,10 @@ knowledge_graph_builder/data/
 
 ### 2. RAG + Blender Generation
 
+```bash
 cd rag_model_builder
 python pipeline_runner.py
+```
 
 This step performs:
 - Retrieval of knowledge graph context
@@ -363,4 +371,5 @@ k = 1
 ## Authors
 
 Raghavendra A, Student, REVA University
+
 Dr. Sindhu P. Menon, Professor, REVA University
