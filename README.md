@@ -1,4 +1,4 @@
-# MAYAMATAM_RAG: Knowledge Graph and RAG Pipeline for Temple Architecture
+# Knowledge Graph-Driven Parametric Modeling of Nagara Style Hindu Temples: An Agent-Based Computational Framework for Vastu Shastra Digital Preservation
 
 This project presents a complete pipeline for extracting structured knowledge from the *Mayamatam* text, constructing a knowledge graph, and generating temple components using Retrieval-Augmented Generation (RAG) and Blender scripts.
 
